@@ -1,2 +1,2 @@
-# Yest_GoTerm
+# Yeast_GoTerm
 Scripts for dataframe;
