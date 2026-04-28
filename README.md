@@ -1,2 +1,2 @@
 # Yest_GoTerm
-Scripts for datafram;
+Scripts for dataframe;
